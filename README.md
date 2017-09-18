@@ -21,3 +21,8 @@ Für dieses Projekt benötigt man einen MySQL- u. PHP-fähigen Server, z.B. [XAM
 Es ist prinzipiell möglich, das _TimeTravel Dispatcher Projekt_ **auch für eine andere Sprache** wie z.B. Griechisch zu nutzen. Dazu müssten allerdings die entsprechenden Vokabeln eingegeben und die Fragen geändert werden.
 
 Es ist natürlich auch möglich, das _TimeTravel Dispatcher Projekt_ für eine moderne(re) Sprache zu nutzen, allerdings ist die grundsätzliche Idee in diesem Fall wahrscheinlich nicht passend und es müsste eine neue Idee erdacht werden. Aber wie gesagt: **Es ist möglich**, aber mit etwas mehr Aufwand verbunden, als auf eine andere altertümliche Sprache unzusatteln.
+
+## Weitere Informationen
+Weitere Informationen zum Projekt finden sich unter [Über - Timetravel Dispatcher Project](http://timetravel.bplaced.de/about/) oder auf [Behance](https://www.behance.net/gallery/54349201/TimeTravel-Dispatcher-Project).
+
+Außerdem kann unter <https://timetravel.bplaced.com/> eine laufende Demo-Version genutzt werden.
