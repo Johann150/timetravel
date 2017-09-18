@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>TimeTravel Dispatcher Project</title>
+		<link rel="stylesheet" type="text/css" href="index.css"/>
+		<link rel="icon" type="img/png" href="favicon.png"/>
+	</head>
+	<body>
+		<div id="firefox">Diese Website ist für Mozilla Firefox optimiert! Wenn möglich nutzen Sie Mozilla Firefox.</div>
+		<script>
+			if(navigator.userAgent.includes("Firefox")){
+				document.getElementById('firefox').remove();
+			}
+		</script>
+		<div id="ltext">TimeTravel Dispatcher Project</div>
+		<div id="load">
+			<div id="l0" class="l"></div>
+			<div id="l1" class="l"></div>
+			<div id="l2" class="l"></div>
+			<div id="l3" class="l"></div>
+			<div id="l4" class="l"></div>
+			<div id="l5" class="l"></div>
+		</div>
+		<div id="select">
+			Du willst am TimeTravel Dispatcher Project teilnehmen und Zeitreisenden helfen und &uuml;bersetzen?<br>
+			Bitte w&auml;hle deine bevorzugte Sprache:
+			<div id="selectout">Leider wird in deiner ausgew&auml;hlten Sprache gerade kein Dispatcher ben&ouml;tigt.</div>
+			<button class="btn" type="button" onclick="n()">Germanisch</button><br>
+			<button class="btn" type="button" onclick="n()">Angels&auml;chsisch</button><br>
+			<button class="btn" type="button" onclick="n()">Griechisch</button><br>
+			<button class="btn" type="button" onclick="y()">Latein</button>
+			<script>
+			function n(){
+				document.getElementById('selectout').style.animation="fadeout 1s forwards reverse";
+			}
+			function y(){
+				document.getElementById('selectout').style.animation="fadeout 1s forwards";
+				document.getElementById('select').style.animation="fadeout 1s forwards";
+				document.getElementById('ltext').style.animation="heading2 1s forwards";
+				document.getElementById('learn').style.animation="fadeout 1s forwards reverse";
+			}
+			</script>
+		</div>
+		<div id="learn">
+			Wilkommen beim TimeTravel Dispatcher Project, sch&ouml;n, dass du mitmachst!
+			Wir haben schon eine Weile nach einem Dispatcher in Latein gesucht.
+			Deshalb geben wir dir jetzt schnell ein paar Tips und dann kannst du schon loslegen.<br>
+			Viel Gl&uuml;ck!
+			<hr>
+			Das TimeTravel Dispatcher Project ist, wie du wahrscheinlich wei&szlig;t,
+			ein Projekt um Zeitreisenden mit Sprachen zu helfen, denn nicht alle Zeitreisenden k&ouml;nnen perfekt Latein oder auch andere Sprachen. Deshalb haben wir Leute wie dich,
+			um ihnen zu helfen. Du wirst also von Zeit zu Zeit Fragen auf deine Konsole bekomme und diese gilt es dann zu beantworten.<br>
+			Wenn du weitere Hilfe benötigst, findest du diese dann auf der Konsole im Hilfe-Tool rechts in der Mitte.
+			<br>
+			Wie viel Zeit hast du zum Helfen?<br>
+			<button class="btn" onclick="window.location.href='cockpit.php?v'">viel</button><br>
+			<button class="btn" onclick="window.location.href='cockpit.php'">geht so</button><br>
+			<button class="btn" onclick="window.location.href='cockpit.php?k'">nur kurz</button>
+		</div>
+	</body>
+</html>
