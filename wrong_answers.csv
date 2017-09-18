@@ -1,0 +1,11 @@
+Achtung;"Der TimeTravel-Server hat bei der &Uuml;berpr&uuml;fung deiner Nachricht für $p einen Fehler festgestellt: Es hätte $a sein müssen."
+Mist;Hi hier ist $p, ich wurde gerade von einem TimeTraveler aufgeklärt: Die Antwort auf die Frage hätte $a sein müssen..
+Überprüfung;"Die Software von LatinaCheck hat einen Fehler bemerkt: Die Antwort deiner Nachricht für $p hätte<b> $a </b>sein müssen. <br> LatinaCheck, die professionelle Software für Überprüfungen der Lateinischen Sprache.<b> <a href="/latinacheck>Starte Jetzt</a></b>"
+Überprüfung;"Die Software von LatinaCheck hat einen Fehler bemerkt: Die Antwort deiner Nachricht für $p hätte<b> $a </b>sein müssen. <br> LatinaCheck, die professionelle Software für Überprüfungen der Lateinischen Sprache.<b> <a href="/latinacheck>Starte Jetzt</a></b>"
+Verlass?;Ich dachte auf den TimeTravel Support sei Verlass. Aber deine Antwort war Falsch. Du hättest mir $a senden müssen. Ich gebe dem Support noch einmal eine Chance. <br> $p
+LatinaCheck;"LatinaCheck kontrolliert teilweise deine Antworten. Eine Nachricht für $p von dir war falsch. Du hättest <b>$a</b> antworten müssen. <br> LatinaCheck, die professionelle Software für Überprüfungen der Lateinischen Sprache.<b> <a href="/latinacheck>Kostenlos Registrieren</a></b>"
+FEHLER;Hallo, hier ist $p. Ich hab einen Fehler in deiner Hilfe-Nachricht gefunden. Es hätte $a sein müssen. <br> Macht aber nichts, es ist ja nichts passiert! :) <br> Viele Grüße,. $p
+Fehlerteufelchen;Hi, nur ganz kurz. Es scheint nicht die erste Antwort gewesen zu sein, die du heute geschrieben hast. Kleiner Fehler: eigentlich hättest du mir $a senden müssen. <br> $p
+Alarm;FEHLERALARM: Du hast mir, $p, eine falsche Antwort gesendet: $a hätte es sein müssen.  LG $p
+$a;"Hi, deine Nachricht an mich hatte einen kleinen Fehler dabei. Du hättest mir theoretisch (ich habe mich erkundigt) $a senden müssen. Zum Gl&uuml;ck ist nichts passiert! MfG $p"
+LÜGEN;NUR LÜGEN: Nischt mit Rischtisch: Du häddest mir $a senden müsen - hat mir mei Gubel gesacht. Näschtemal bsser! <br> $p
