@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule \.csv$ about:blank [R=404]
+RewriteCond %{THE_REQUEST} /(res|names)/.+ [NC]
+RewriteRule ^ about:blank [R=404]
