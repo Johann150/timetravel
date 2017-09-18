@@ -24,3 +24,5 @@ Es ist natürlich auch möglich, das _TimeTravel Dispatcher Projekt_ für eine m
 
 ## Weitere Informationen
 Weitere Informationen zum Projekt finden sich unter [Über - Timetravel Dispatcher Project](http://timetravel.bplaced.de/about/) oder auf [Behance](https://www.behance.net/gallery/54349201/TimeTravel-Dispatcher-Project).
+
+Außerdem kann unter <https://timetravel.bplaced.com/> eine laufende Demo-Version genutzt werden.
