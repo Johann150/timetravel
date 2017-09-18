@@ -1,0 +1,1 @@
+<form onsubmit="return check(this);" data-widget="eingabe">Antwort:<br><input type="text" name="answer"/><br><input type="submit" name="submit" value="fertig"/></form>

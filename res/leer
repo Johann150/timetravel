@@ -1,0 +1,1 @@
+<form onsubmit="return check(this);" data-widget="leer"><input type="submit" name="submit" value="entfernen"/></form>

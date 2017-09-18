@@ -1,0 +1,1 @@
+<form onsubmit="return check(this);" data-widget="yesno">Antwort:<br><input type="radio" name="answer" value="ja"/>ja<br><input type="radio" name="answer" value="nein"/>nein<br><input type="submit" name="submit" value="fertig"/></form>
